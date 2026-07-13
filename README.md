@@ -22,7 +22,7 @@ Users should be able to:
 ![My solution.jpeg]
 
 ### Links
-- Live Site URL: (https://Utibe-code.github.io/Blog-preview-card/)
+- Live Site URL: (https://UtibeCode.github.io/Blog-preview-card/)
 
 ### Built with
 
@@ -32,4 +32,4 @@ Users should be able to:
 - CSS Grid
 
 ## Author
-- Frontend Mentor - [@el-carim](https://www.frontendmentor.io/profile/el-carim)
+- Frontend Mentor - [@Utibe](https://www.frontendmentor.io/profile/Utibe)
